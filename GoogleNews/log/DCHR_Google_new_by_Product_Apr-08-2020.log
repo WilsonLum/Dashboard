@@ -1,0 +1,125 @@
+2020-04-08 19:25:09,617 :: INFO :: *******************************************************************
+2020-04-08 19:25:09,617 :: INFO :: Creating Google RSS News dataset by Product  at Apr-08-2020 19:25:09
+2020-04-08 19:25:09,617 :: INFO :: *******************************************************************
+
+2020-04-08 19:25:09,971 :: INFO :: Reading input\Google_search_Product.txt
+2020-04-08 19:25:10,996 :: INFO :: diagram\WordCloud_DCHR_Bigram_Compass Cloud.jpg
+2020-04-08 19:25:11,540 :: INFO :: diagram\WordCloud_DCHR_Trigram_Compass Cloud.jpg
+2020-04-08 19:25:27,439 :: INFO :: diagram\WordCloud_DCHR_Bigram_Kaltura MediaSpace.jpg
+2020-04-08 19:25:27,963 :: INFO :: diagram\WordCloud_DCHR_Trigram_Kaltura MediaSpace.jpg
+2020-04-08 19:25:38,093 :: INFO :: Unable to read at row 3 of input\Google_search_Product.txt Error "None of [Index(['item', 'link', 'description', 'body', 'pubdate'], dtype='object')] are in the [columns]" at Apr-08-2020 19:25:38
+2020-04-08 19:25:39,168 :: INFO :: diagram\WordCloud_DCHR_Bigram_Panopto.jpg
+2020-04-08 19:25:39,855 :: INFO :: diagram\WordCloud_DCHR_Trigram_Panopto.jpg
+2020-04-08 19:25:57,692 :: INFO :: Unable to read at row 5 of input\Google_search_Product.txt Error "None of [Index(['item', 'link', 'description', 'body', 'pubdate'], dtype='object')] are in the [columns]" at Apr-08-2020 19:25:57
+2020-04-08 19:25:58,212 :: INFO :: diagram\WordCloud_DCHR_Bigram_SelfDrvn.jpg
+2020-04-08 19:25:58,705 :: INFO :: diagram\WordCloud_DCHR_Trigram_SelfDrvn.jpg
+2020-04-08 19:26:08,750 :: INFO :: diagram\WordCloud_DCHR_Bigram_Panalyt.jpg
+2020-04-08 19:26:09,191 :: INFO :: diagram\WordCloud_DCHR_Trigram_Panalyt.jpg
+2020-04-08 19:26:17,277 :: INFO :: diagram\WordCloud_DCHR_Bigram_Comaea CMS.jpg
+2020-04-08 19:26:17,714 :: INFO :: diagram\WordCloud_DCHR_Trigram_Comaea CMS.jpg
+2020-04-08 19:26:26,519 :: INFO :: diagram\WordCloud_DCHR_Bigram_Competency Management System.jpg
+2020-04-08 19:26:27,264 :: INFO :: diagram\WordCloud_DCHR_Trigram_Competency Management System.jpg
+2020-04-08 19:26:52,411 :: INFO :: diagram\WordCloud_DCHR_Bigram_EngageRocket.jpg
+2020-04-08 19:26:53,103 :: INFO :: diagram\WordCloud_DCHR_Trigram_EngageRocket.jpg
+2020-04-08 19:27:18,844 :: INFO :: diagram\WordCloud_DCHR_Bigram_impress.ai.jpg
+2020-04-08 19:27:19,517 :: INFO :: diagram\WordCloud_DCHR_Trigram_impress.ai.jpg
+2020-04-08 19:27:41,283 :: INFO :: diagram\WordCloud_DCHR_Bigram_Synergita.jpg
+2020-04-08 19:27:41,890 :: INFO :: diagram\WordCloud_DCHR_Trigram_Synergita.jpg
+2020-04-08 19:27:53,125 :: INFO :: diagram\WordCloud_DCHR_Bigram_AGHRM.jpg
+2020-04-08 19:27:53,601 :: INFO :: diagram\WordCloud_DCHR_Trigram_AGHRM.jpg
+2020-04-08 19:28:01,235 :: INFO :: diagram\WordCloud_DCHR_Bigram_Mednefits Care.jpg
+2020-04-08 19:28:01,725 :: INFO :: diagram\WordCloud_DCHR_Trigram_Mednefits Care.jpg
+2020-04-08 19:28:10,335 :: INFO :: diagram\WordCloud_DCHR_Bigram_Predictive Insights.jpg
+2020-04-08 19:28:10,885 :: INFO :: diagram\WordCloud_DCHR_Trigram_Predictive Insights.jpg
+2020-04-08 19:28:31,374 :: INFO :: diagram\WordCloud_DCHR_Bigram_Xoxoday for Employees.jpg
+2020-04-08 19:28:32,256 :: INFO :: diagram\WordCloud_DCHR_Trigram_Xoxoday for Employees.jpg
+2020-04-08 19:28:51,607 :: INFO :: diagram\WordCloud_DCHR_Bigram_activ8.jpg
+2020-04-08 19:28:52,296 :: INFO :: diagram\WordCloud_DCHR_Trigram_activ8.jpg
+2020-04-08 19:29:15,062 :: INFO :: diagram\WordCloud_DCHR_Bigram_Roubler.jpg
+2020-04-08 19:29:15,444 :: INFO :: diagram\WordCloud_DCHR_Trigram_Roubler.jpg
+2020-04-08 19:29:25,326 :: INFO :: diagram\WordCloud_DCHR_Bigram_Enboarder.jpg
+2020-04-08 19:29:25,917 :: INFO :: diagram\WordCloud_DCHR_Trigram_Enboarder.jpg
+2020-04-08 19:33:10,816 :: INFO :: *******************************************************************
+2020-04-08 19:33:10,817 :: INFO :: Creating Google RSS News dataset by Product  at Apr-08-2020 19:33:10
+2020-04-08 19:33:10,817 :: INFO :: *******************************************************************
+
+2020-04-08 19:33:11,070 :: INFO :: Reading input\Google_search_Product.txt
+2020-04-08 19:33:12,119 :: INFO :: diagram\WordCloud_DCHR_Bigram_Compass Cloud.jpg
+2020-04-08 19:33:12,605 :: INFO :: diagram\WordCloud_DCHR_Trigram_Compass Cloud.jpg
+2020-04-08 19:33:28,678 :: INFO :: diagram\WordCloud_DCHR_Bigram_Kaltura MediaSpace.jpg
+2020-04-08 19:33:29,184 :: INFO :: diagram\WordCloud_DCHR_Trigram_Kaltura MediaSpace.jpg
+2020-04-08 19:33:39,413 :: INFO :: Unable to read at row 3 of input\Google_search_Product.txt Error "None of [Index(['item', 'link', 'description', 'body', 'pubdate'], dtype='object')] are in the [columns]" at Apr-08-2020 19:33:39
+2020-04-08 19:33:40,536 :: INFO :: diagram\WordCloud_DCHR_Bigram_Panopto.jpg
+2020-04-08 19:33:41,213 :: INFO :: diagram\WordCloud_DCHR_Trigram_Panopto.jpg
+2020-04-08 19:33:59,994 :: INFO :: Unable to read at row 5 of input\Google_search_Product.txt Error "None of [Index(['item', 'link', 'description', 'body', 'pubdate'], dtype='object')] are in the [columns]" at Apr-08-2020 19:33:59
+2020-04-08 19:34:00,545 :: INFO :: diagram\WordCloud_DCHR_Bigram_SelfDrvn.jpg
+2020-04-08 19:34:01,049 :: INFO :: diagram\WordCloud_DCHR_Trigram_SelfDrvn.jpg
+2020-04-08 19:34:11,675 :: INFO :: diagram\WordCloud_DCHR_Bigram_Panalyt.jpg
+2020-04-08 19:34:12,119 :: INFO :: diagram\WordCloud_DCHR_Trigram_Panalyt.jpg
+2020-04-08 19:34:21,316 :: INFO :: diagram\WordCloud_DCHR_Bigram_Comaea CMS.jpg
+2020-04-08 19:34:21,714 :: INFO :: diagram\WordCloud_DCHR_Trigram_Comaea CMS.jpg
+2020-04-08 19:34:30,975 :: INFO :: diagram\WordCloud_DCHR_Bigram_Competency Management System.jpg
+2020-04-08 19:34:31,770 :: INFO :: diagram\WordCloud_DCHR_Trigram_Competency Management System.jpg
+2020-04-08 19:34:57,419 :: INFO :: diagram\WordCloud_DCHR_Bigram_EngageRocket.jpg
+2020-04-08 19:34:58,117 :: INFO :: diagram\WordCloud_DCHR_Trigram_EngageRocket.jpg
+2020-04-08 19:35:24,757 :: INFO :: diagram\WordCloud_DCHR_Bigram_impress.ai.jpg
+2020-04-08 19:35:25,418 :: INFO :: diagram\WordCloud_DCHR_Trigram_impress.ai.jpg
+2020-04-08 19:35:48,469 :: INFO :: diagram\WordCloud_DCHR_Bigram_Synergita.jpg
+2020-04-08 19:35:49,059 :: INFO :: diagram\WordCloud_DCHR_Trigram_Synergita.jpg
+2020-04-08 19:36:01,245 :: INFO :: diagram\WordCloud_DCHR_Bigram_AGHRM.jpg
+2020-04-08 19:36:01,718 :: INFO :: diagram\WordCloud_DCHR_Trigram_AGHRM.jpg
+2020-04-08 19:36:10,447 :: INFO :: diagram\WordCloud_DCHR_Bigram_Mednefits Care.jpg
+2020-04-08 19:36:10,933 :: INFO :: diagram\WordCloud_DCHR_Trigram_Mednefits Care.jpg
+2020-04-08 19:36:20,520 :: INFO :: diagram\WordCloud_DCHR_Bigram_Predictive Insights.jpg
+2020-04-08 19:36:21,053 :: INFO :: diagram\WordCloud_DCHR_Trigram_Predictive Insights.jpg
+2020-04-08 19:36:41,814 :: INFO :: diagram\WordCloud_DCHR_Bigram_Xoxoday for Employees.jpg
+2020-04-08 19:36:42,672 :: INFO :: diagram\WordCloud_DCHR_Trigram_Xoxoday for Employees.jpg
+2020-04-08 19:37:01,957 :: INFO :: diagram\WordCloud_DCHR_Bigram_activ8.jpg
+2020-04-08 19:37:02,795 :: INFO :: diagram\WordCloud_DCHR_Trigram_activ8.jpg
+2020-04-08 19:37:23,381 :: INFO :: diagram\WordCloud_DCHR_Bigram_Roubler.jpg
+2020-04-08 19:37:23,738 :: INFO :: diagram\WordCloud_DCHR_Trigram_Roubler.jpg
+2020-04-08 19:37:33,973 :: INFO :: diagram\WordCloud_DCHR_Bigram_Enboarder.jpg
+2020-04-08 19:37:34,577 :: INFO :: diagram\WordCloud_DCHR_Trigram_Enboarder.jpg
+2020-04-08 19:37:50,365 :: INFO :: diagram\WordCloud_DCHR_Bigram_Talenox.jpg
+2020-04-08 19:37:50,827 :: INFO :: diagram\WordCloud_DCHR_Trigram_Talenox.jpg
+2020-04-08 19:38:01,793 :: INFO :: diagram\WordCloud_DCHR_Bigram_Best Valued Payroll.jpg
+2020-04-08 19:38:02,899 :: INFO :: diagram\WordCloud_DCHR_Trigram_Best Valued Payroll.jpg
+2020-04-08 19:38:33,353 :: INFO :: diagram\WordCloud_DCHR_Bigram_WorkReady Professional.jpg
+2020-04-08 19:38:34,044 :: INFO :: diagram\WordCloud_DCHR_Trigram_WorkReady Professional.jpg
+2020-04-08 19:38:54,269 :: INFO :: diagram\WordCloud_DCHR_Bigram_X0PA AI Recruiter.jpg
+2020-04-08 19:38:54,650 :: INFO :: diagram\WordCloud_DCHR_Trigram_X0PA AI Recruiter.jpg
+2020-04-08 19:39:04,297 :: INFO :: Unable to read at row 24 of input\Google_search_Product.txt Error "None of [Index(['item', 'link', 'description', 'body', 'pubdate'], dtype='object')] are in the [columns]" at Apr-08-2020 19:39:04
+2020-04-08 19:39:05,436 :: INFO :: diagram\WordCloud_DCHR_Bigram_MyJoining.jpg
+2020-04-08 19:39:06,117 :: INFO :: diagram\WordCloud_DCHR_Trigram_MyJoining.jpg
+2020-04-08 19:39:27,005 :: INFO :: diagram\WordCloud_DCHR_Bigram_Full Automated Payroll Solution.jpg
+2020-04-08 19:39:27,789 :: INFO :: diagram\WordCloud_DCHR_Trigram_Full Automated Payroll Solution.jpg
+2020-04-08 19:39:51,808 :: INFO :: diagram\WordCloud_DCHR_Bigram_Su-Ette.jpg
+2020-04-08 19:39:52,355 :: INFO :: diagram\WordCloud_DCHR_Trigram_Su-Ette.jpg
+2020-04-08 19:40:04,058 :: INFO :: diagram\WordCloud_DCHR_Bigram_C-Factor.jpg
+2020-04-08 19:40:04,976 :: INFO :: diagram\WordCloud_DCHR_Trigram_C-Factor.jpg
+2020-04-08 19:40:46,075 :: INFO :: diagram\WordCloud_DCHR_Bigram_Organizational Charting Tool.jpg
+2020-04-08 19:40:46,822 :: INFO :: diagram\WordCloud_DCHR_Trigram_Organizational Charting Tool.jpg
+2020-04-08 19:41:14,270 :: INFO :: diagram\WordCloud_DCHR_Bigram_Organimi.jpg
+2020-04-08 19:41:14,705 :: INFO :: diagram\WordCloud_DCHR_Trigram_Organimi.jpg
+2020-04-08 19:41:24,848 :: INFO :: diagram\WordCloud_DCHR_Bigram_People First.jpg
+2020-04-08 19:41:25,448 :: INFO :: diagram\WordCloud_DCHR_Trigram_People First.jpg
+2020-04-08 19:41:49,400 :: INFO :: diagram\WordCloud_DCHR_Bigram_ALT Product Suite.jpg
+2020-04-08 19:41:50,149 :: INFO :: diagram\WordCloud_DCHR_Trigram_ALT Product Suite.jpg
+2020-04-08 19:42:10,611 :: INFO :: diagram\WordCloud_DCHR_Bigram_Pingboard.jpg
+2020-04-08 19:42:11,152 :: INFO :: diagram\WordCloud_DCHR_Trigram_Pingboard.jpg
+2020-04-08 19:42:25,691 :: INFO :: diagram\WordCloud_DCHR_Bigram_SCREENGLOBAL FOR ANY BACKGROUND CHECK.jpg
+2020-04-08 19:42:26,171 :: INFO :: diagram\WordCloud_DCHR_Trigram_SCREENGLOBAL FOR ANY BACKGROUND CHECK.jpg
+2020-04-08 19:42:36,001 :: INFO :: diagram\WordCloud_DCHR_Bigram_Zoho People.jpg
+2020-04-08 19:42:36,771 :: INFO :: diagram\WordCloud_DCHR_Trigram_Zoho People.jpg
+2020-04-08 19:42:55,705 :: INFO :: diagram\WordCloud_DCHR_Bigram_AdrenalinMAX.jpg
+2020-04-08 19:42:56,162 :: INFO :: diagram\WordCloud_DCHR_Trigram_AdrenalinMAX.jpg
+2020-04-08 19:43:05,981 :: INFO :: diagram\WordCloud_DCHR_Bigram_CEIPAL.jpg
+2020-04-08 19:43:07,114 :: INFO :: diagram\WordCloud_DCHR_Trigram_CEIPAL.jpg
+2020-04-08 19:43:25,869 :: INFO :: Saving All topics to excel
+2020-04-08 19:43:25,869 :: INFO :: Saving All topics image file path to excel
+2020-04-08 19:43:25,870 :: INFO :: ######################################
+2020-04-08 19:43:25,870 :: INFO ::   Done saving   Apr-08-2020 19:43:25
+2020-04-08 19:43:25,870 :: INFO :: ######################################
+
+
+

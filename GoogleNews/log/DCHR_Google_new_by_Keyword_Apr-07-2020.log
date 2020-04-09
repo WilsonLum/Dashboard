@@ -1,0 +1,34 @@
+2020-04-07 15:39:58,930 :: INFO :: **********************************************************************
+2020-04-07 15:39:58,930 :: INFO :: Creating Google RSS News dataset by Keyword at Apr-07-2020 15:39:58
+2020-04-07 15:39:58,930 :: INFO :: **********************************************************************
+
+2020-04-07 15:39:59,013 :: INFO :: Reading input\Google_search_Keyword.txt
+2020-04-07 15:40:00,581 :: INFO :: diagram\WordCloud_DCHR_Bigram_HRTECH.jpg
+2020-04-07 15:40:01,481 :: INFO :: diagram\WordCloud_DCHR_Trigram_HRTECH.jpg
+2020-04-07 15:40:20,291 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Analystics.jpg
+2020-04-07 15:40:20,890 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Analystics.jpg
+2020-04-07 15:40:31,589 :: INFO :: Saving All topics to excel
+2020-04-07 15:40:31,590 :: INFO :: Saving All topics image file path to excel
+2020-04-07 15:40:31,591 :: INFO :: ######################################
+2020-04-07 15:40:31,591 :: INFO ::   Done saving   Apr-07-2020 15:40:31
+2020-04-07 15:40:31,592 :: INFO :: ######################################
+
+
+
+2020-04-07 20:44:53,608 :: INFO :: **********************************************************************
+2020-04-07 20:44:53,609 :: INFO :: Creating Google RSS News dataset by Keyword at Apr-07-2020 20:44:53
+2020-04-07 20:44:53,609 :: INFO :: **********************************************************************
+
+2020-04-07 20:44:53,701 :: INFO :: Reading input\Google_search_Keyword.txt
+2020-04-07 20:44:54,907 :: INFO :: diagram\WordCloud_DCHR_Bigram_HRTECH.jpg
+2020-04-07 20:44:55,562 :: INFO :: diagram\WordCloud_DCHR_Trigram_HRTECH.jpg
+2020-04-07 20:45:15,062 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Analytics.jpg
+2020-04-07 20:45:15,807 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Analytics.jpg
+2020-04-07 20:45:39,704 :: INFO :: Saving All topics to excel
+2020-04-07 20:45:39,705 :: INFO :: Saving All topics image file path to excel
+2020-04-07 20:45:39,707 :: INFO :: ######################################
+2020-04-07 20:45:39,707 :: INFO ::   Done saving   Apr-07-2020 20:45:39
+2020-04-07 20:45:39,707 :: INFO :: ######################################
+
+
+

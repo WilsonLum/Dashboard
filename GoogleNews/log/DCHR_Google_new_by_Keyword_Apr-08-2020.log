@@ -1,0 +1,17 @@
+2020-04-08 17:54:27,681 :: INFO :: **********************************************************************
+2020-04-08 17:54:27,681 :: INFO :: Creating Google RSS News dataset by Keyword at Apr-08-2020 17:54:27
+2020-04-08 17:54:27,681 :: INFO :: **********************************************************************
+
+2020-04-08 17:54:27,828 :: INFO :: Reading input\Google_search_Keyword.txt
+2020-04-08 17:54:29,092 :: INFO :: diagram\WordCloud_DCHR_Bigram_HRTECH.jpg
+2020-04-08 17:54:29,731 :: INFO :: diagram\WordCloud_DCHR_Trigram_HRTECH.jpg
+2020-04-08 17:54:48,105 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Analytics.jpg
+2020-04-08 17:54:48,827 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Analytics.jpg
+2020-04-08 17:55:11,745 :: INFO :: Saving All topics to excel
+2020-04-08 17:55:11,746 :: INFO :: Saving All topics image file path to excel
+2020-04-08 17:55:11,746 :: INFO :: ######################################
+2020-04-08 17:55:11,746 :: INFO ::   Done saving   Apr-08-2020 17:55:11
+2020-04-08 17:55:11,746 :: INFO :: ######################################
+
+
+

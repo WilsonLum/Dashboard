@@ -1,0 +1,47 @@
+2020-04-06 16:29:56,797 :: INFO :: ***********************************************************
+2020-04-06 16:29:56,797 :: INFO :: Testing on Google RSS News Number of Topics Apr-06-2020 16:29:56
+2020-04-06 16:29:56,797 :: INFO :: ***********************************************************
+
+2020-04-06 16:29:56,800 :: INFO :: Reading input\Google_search_Keyword.txt
+2020-04-06 16:30:24,839 :: INFO :: Vectorising Bi_tri_gram for number of topics 5
+2020-04-06 16:30:29,842 :: INFO :: Building Bi_tri_gram LDA models for number of topics 5
+2020-04-06 16:30:29,842 :: INFO :: Will take quite a while ...
+2020-04-06 16:31:29,081 :: INFO :: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2020-04-06 16:31:29,081 :: INFO :: NumExpr defaulting to 8 threads.
+2020-04-06 18:51:29,762 :: INFO :: Saving to HTML format ... at 2020-04-06 18:51:29.761122
+
+2020-04-06 18:51:29,762 :: INFO :: ************************************************************************
+
+2020-04-06 18:51:29,802 :: INFO :: ######################################
+2020-04-06 18:51:29,802 :: INFO ::   Done saving   Apr-06-2020 18:51:29
+2020-04-06 18:51:29,802 :: INFO :: ######################################
+
+
+
+2020-04-06 20:50:39,197 :: INFO :: ***********************************************************
+2020-04-06 20:50:39,198 :: INFO :: Testing on Google RSS News Number of Topics Apr-06-2020 20:50:39
+2020-04-06 20:50:39,198 :: INFO :: ***********************************************************
+
+2020-04-06 20:50:39,202 :: INFO :: Reading input\Google_search_Keyword.txt
+2020-04-06 20:51:07,773 :: INFO :: Vectorising Bi_tri_gram for number of topics 3
+2020-04-06 20:51:12,654 :: INFO :: Building Bi_tri_gram LDA models for number of topics 3
+2020-04-06 20:51:12,654 :: INFO :: Will take quite a while ...
+2020-04-06 20:52:06,304 :: INFO :: Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2020-04-06 20:52:06,304 :: INFO :: NumExpr defaulting to 8 threads.
+2020-04-06 23:12:24,088 :: INFO :: Saving to HTML format ... at 2020-04-06 23:12:24.087506
+
+2020-04-06 23:12:24,088 :: INFO :: ************************************************************************
+
+2020-04-06 23:12:24,094 :: INFO :: Vectorising Bi_tri_gram for number of topics 4
+2020-04-06 23:12:30,495 :: INFO :: Building Bi_tri_gram LDA models for number of topics 4
+2020-04-06 23:12:30,495 :: INFO :: Will take quite a while ...
+2020-04-07 01:28:52,252 :: INFO :: Saving to HTML format ... at 2020-04-07 01:28:52.251498
+
+2020-04-07 01:28:52,253 :: INFO :: ************************************************************************
+
+2020-04-07 01:28:52,472 :: INFO :: ######################################
+2020-04-07 01:28:52,472 :: INFO ::   Done saving   Apr-07-2020 01:28:52
+2020-04-07 01:28:52,472 :: INFO :: ######################################
+
+
+

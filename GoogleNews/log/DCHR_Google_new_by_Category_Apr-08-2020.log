@@ -1,0 +1,58 @@
+2020-04-08 16:58:23,985 :: INFO :: *******************************************************************
+2020-04-08 16:58:23,985 :: INFO :: Creating Google RSS News dataset by Category  at Apr-08-2020 16:58:23
+2020-04-08 16:58:23,985 :: INFO :: *******************************************************************
+
+2020-04-08 16:58:24,369 :: INFO :: Reading input\Google_search_Category.txt
+2020-04-08 17:18:12,232 :: INFO :: *******************************************************************
+2020-04-08 17:18:12,232 :: INFO :: Creating Google RSS News dataset by Category  at Apr-08-2020 17:18:12
+2020-04-08 17:18:12,232 :: INFO :: *******************************************************************
+
+2020-04-08 17:18:12,564 :: INFO :: Reading input\Google_search_Category.txt
+2020-04-08 17:18:14,483 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Compensation Management.jpg
+2020-04-08 17:18:15,267 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Compensation Management.jpg
+2020-04-08 17:18:40,907 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Competency Management.jpg
+2020-04-08 17:18:41,751 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Competency Management.jpg
+2020-04-08 17:19:11,697 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Core HR.jpg
+2020-04-08 17:19:12,394 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Core HR.jpg
+2020-04-08 17:19:33,677 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Full Suite.jpg
+2020-04-08 17:19:34,376 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Full Suite.jpg
+2020-04-08 17:20:02,096 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Employee Benefits.jpg
+2020-04-08 17:20:02,901 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Employee Benefits.jpg
+2020-04-08 17:20:31,289 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Engagement Surveys.jpg
+2020-04-08 17:20:31,991 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Engagement Surveys.jpg
+2020-04-08 17:20:58,550 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Learning Management Solutions.jpg
+2020-04-08 17:20:59,335 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Learning Management Solutions.jpg
+2020-04-08 17:21:24,748 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR LMS.jpg
+2020-04-08 17:21:25,528 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR LMS.jpg
+2020-04-08 17:21:48,756 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Onboarding.jpg
+2020-04-08 17:21:49,380 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Onboarding.jpg
+2020-04-08 17:22:13,278 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Employee Recognition.jpg
+2020-04-08 17:22:14,010 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Employee Recognition.jpg
+2020-04-08 17:22:37,865 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Payroll.jpg
+2020-04-08 17:22:38,493 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Payroll.jpg
+2020-04-08 17:22:59,418 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR People Analytics.jpg
+2020-04-08 17:23:00,253 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR People Analytics.jpg
+2020-04-08 17:23:26,263 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Performance Management.jpg
+2020-04-08 17:23:26,970 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Performance Management.jpg
+2020-04-08 17:23:51,034 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Organisation Chart.jpg
+2020-04-08 17:23:51,975 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Organisation Chart.jpg
+2020-04-08 17:24:27,464 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Recruitment Selection.jpg
+2020-04-08 17:24:28,276 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Recruitment Selection.jpg
+2020-04-08 17:24:56,552 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Specialised Analytics.jpg
+2020-04-08 17:24:57,474 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Specialised Analytics.jpg
+2020-04-08 17:25:34,811 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Time Attendance.jpg
+2020-04-08 17:25:35,559 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Time Attendance.jpg
+2020-04-08 17:26:01,009 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Training Courseware.jpg
+2020-04-08 17:26:01,880 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Training Courseware.jpg
+2020-04-08 17:26:30,010 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Psychometrics.jpg
+2020-04-08 17:26:30,707 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Psychometrics.jpg
+2020-04-08 17:26:53,513 :: INFO :: diagram\WordCloud_DCHR_Bigram_HR Video Platform.jpg
+2020-04-08 17:26:54,326 :: INFO :: diagram\WordCloud_DCHR_Trigram_HR Video Platform.jpg
+2020-04-08 17:27:29,171 :: INFO :: Saving All topics to excel
+2020-04-08 17:27:29,172 :: INFO :: Saving All topics image file path to excel
+2020-04-08 17:27:29,172 :: INFO :: ######################################
+2020-04-08 17:27:29,172 :: INFO ::   Done saving   Apr-08-2020 17:27:29
+2020-04-08 17:27:29,173 :: INFO :: ######################################
+
+
+
