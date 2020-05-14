@@ -23,7 +23,10 @@ To run in the python env: (But this is not required as the batch file has cater 
      .\DCHR\Scripts\activate
  2. Install the library:
    - pip install -r requirements.txt
+   - python -m spacy download en_core_web_sm 
+   - python -m spacy download en_core_web_md 
    - python -m spacy download en_core_web_lg 
+   - python install_nltk_spacy_package.py
 
 ## GoogleRSS News
 Process procedures under GoogleNews folder:
