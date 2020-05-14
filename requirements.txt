@@ -1,0 +1,15 @@
+requests
+html2text
+pandas
+numpy
+wordcloud
+matplotlib
+gensim
+spacy
+nltk
+scikit-learn
+xlsxwriter
+pyLDAvis
+tweepy
+textblob
+schedule
