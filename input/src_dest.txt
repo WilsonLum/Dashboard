@@ -1,2 +1,2 @@
-http://dchr.a2hosted.com/DCHR/
-C:\\Users\\Wilson\\Data_Analytics\\Master in IS Course\\Master in IS Course\\Internship\Decode HR\\dashboard
+server domain name
+local drive
