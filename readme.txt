@@ -30,7 +30,7 @@ This programs are for collecting GoogleRSS news and Twitter data and present in 
 To run in the python env: This is for first time setup.
  1a. Activate the env: (Linux Server platform)
    - Activate the env (Follow the detail Installation guide)
-     source /home/dchrahos/virtualenv/DCHR_Dashboard/3.7/bin/activate
+     source /home/dchrahos/virtualenv/DCHR1/3.7/bin/activate
    - Go to working folder
      cd /home/dchrahos/dashboard
  1b. Command to create the virtual environment:(Windows platform)
@@ -51,7 +51,7 @@ To run in the python env: This is for first time setup.
 3. Cronjob configuration (Linux Server platform)
    - ## Cron job
    - Recommend to configure once a year schedule for this cronjob (As the actual scheduling of running the programs are in the python codes
-   - source /home/dchrahos/virtualenv/DCHR_Dashbaord/3.7/bin/activate && cd /home/dchrahos/dashboard && python Server_schedule_process.py
+   - source /home/dchrahos/virtualenv/DCHR1/3.7/bin/activate && cd /home/dchrahos/dashboard && python Server_schedule_process.py
 
 ## GoogleRSS News
 Process procedures under GoogleNews folder:

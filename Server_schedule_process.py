@@ -27,6 +27,16 @@ def twitter_by_screen_name_scrap():
     subprocess.call('python /home/dchrahos/dashboard/twitter/DCHR_Twitter_scrap_by_screen_name.py', shell=True)
     logging.info("Finished in scrapping")
 
+ # This min requires 3-5 min of scrapping depends on the number of keywords
+# It can take more than 10 mins if it hits the max request set by twitter which will sleep for 900seconds before continue to scrape
+# Min give this job about 20 mins
+def twitter_by_product_scrap():
+    print("Start twitter_by_product_scrap at : ", datetime.now().strftime("%b-%d-%Y %H:%M:%S"))
+    logging.info("Start twitter_by_product_scrap at : ")
+    subprocess.call('cd /home/dchrahos/dashboard/twitter', shell=True)
+    subprocess.call('python /home/dchrahos/dashboard/twitter/DCHR_Twitter_scrap_by_product.py', shell=True)
+    logging.info("Finished in scrapping")
+
 # This min requires 60 min of scrapping depends on the number of keywords
 # It can take more than 40 mins Min give this job about 50 mins
 def GoogleNews_by_Category_scrap():
@@ -84,35 +94,37 @@ def Create_GoogleNews_Datasets_Product():
 def Copy_data_to_download_folder():
     print("Start Copy_data_to_download_folder at : ", datetime.now().strftime("%b-%d-%Y %H:%M:%S"))
     logging.info("Start Copy_data_to_download_folder at : ")
-    subprocess.call(r'cp /home/dchrahos/dashboard/twitter/data/DCHR_Twitters_by_topics.xlsx /home/dchrahos/public_html/DCHR/DCHR_Twitters_by_topics.xlsx',shell=True)
-    subprocess.call(r'cp /home/dchrahos/dashboard/twitter/data/DCHR_Influencer_tweets.xlsx /home/dchrahos/public_html/DCHR/DCHR_Influencer_tweets.xlsx',shell=True)
-    subprocess.call(r'cp /home/dchrahos/dashboard/GoogleNews/data/DCHR_Google_Category.xlsx /home/dchrahos/public_html/DCHR/DCHR_Google_Category.xlsx',shell=True)
-    subprocess.call(r'cp /home/dchrahos/dashboard/GoogleNews/data/DCHR_Google_Keyword.xlsx /home/dchrahos/public_html/DCHR/DCHR_Google_Keyword.xlsx',shell=True)
-    subprocess.call(r'cp /home/dchrahos/dashboard/GoogleNews/data/DCHR_Google_Product.xlsx /home/dchrahos/public_html/DCHR/DCHR_Google_Product.xlsx',shell=True)
+    subprocess.call(r'cp /home/dchrahos/dashboard/twitter/data/DCHR_Twitters_by_topics.xlsx /home/dchrahos/public_html/DCHR1/DCHR_Twitters_by_topics.xlsx',shell=True)
+    subprocess.call(r'cp /home/dchrahos/dashboard/twitter/data/DCHR_Influencer_tweets.xlsx /home/dchrahos/public_html/DCHR1/DCHR_Influencer_tweets.xlsx',shell=True)
+    subprocess.call(r'cp /home/dchrahos/dashboard/twitter/data/DCHR_Twitters_by_product.xlsx /home/dchrahos/public_html/DCHR1/DCHR_Twitters_by_product.xlsx',shell=True)
+    subprocess.call(r'cp /home/dchrahos/dashboard/GoogleNews/data/DCHR_Google_Category.xlsx /home/dchrahos/public_html/DCHR1/DCHR_Google_Category.xlsx',shell=True)
+    subprocess.call(r'cp /home/dchrahos/dashboard/GoogleNews/data/DCHR_Google_Keyword.xlsx /home/dchrahos/public_html/DCHR1/DCHR_Google_Keyword.xlsx',shell=True)
+    subprocess.call(r'cp /home/dchrahos/dashboard/GoogleNews/data/DCHR_Google_Product.xlsx /home/dchrahos/public_html/DCHR1/DCHR_Google_Product.xlsx',shell=True)
     logging.info("Finished in copying")
     logging.info("End:")
 
 def RunTaskPeriodically():
     try:
         # Actuvtae the dashboard python virtual env
-        subprocess.call('source /home/dchrahos/virtualenv/DCHR_Dasboard/3.7/bin/activate', shell=True)
-
+        subprocess.call('source /home/dchrahos/virtualenv/DCHR1/3.7/bin/activate', shell=True)
+        
         # Start of the twitter scrapping & create datasets jobs
-        schedule.every().thursday.at('08:20').do(twitter_by_topic_scrap)
-        schedule.every().thursday.at('08:40').do(twitter_by_screen_name_scrap)
+        schedule.every().sunday.at('01:00').do(twitter_by_topic_scrap)
+        schedule.every().sunday.at('02:00').do(twitter_by_screen_name_scrap)
+        schedule.every().sunday.at('03:00').do(twitter_by_product_scrap)
 
         # Start of the Google scrapping jobs
-        schedule.every().thursday.at('09:00').do(GoogleNews_by_Category_scrap)  
-        schedule.every().thursday.at('10:15').do(GoogleNews_by_Keyword_scrap)
-        schedule.every().thursday.at('11:00').do(GoogleNews_by_Product_scrap)
+        schedule.every().sunday.at('04:00').do(GoogleNews_by_Category_scrap)  
+        schedule.every().sunday.at('05:30').do(GoogleNews_by_Keyword_scrap)
+        schedule.every().sunday.at('07:00').do(GoogleNews_by_Product_scrap)
 
         # Start of the Creating of Google dataset jobs
-        schedule.every().thursday.at('12:30').do(Create_GoogleNews_Datasets_Category)
-        schedule.every().thursday.at('13:00').do(Create_GoogleNews_Datasets_Keyword)
-        schedule.every().thursday.at('14:00').do(Create_GoogleNews_Datasets_Product)
+        schedule.every().sunday.at('08:30').do(Create_GoogleNews_Datasets_Category)
+        schedule.every().sunday.at('09:00').do(Create_GoogleNews_Datasets_Keyword)
+        schedule.every().sunday.at('09:30').do(Create_GoogleNews_Datasets_Product)
 
         # Start copy created data excel file to public folder for download to windows PC
-        schedule.every().thursday.at('15:00').do(Copy_data_to_download_folder)
+        schedule.every().sunday.at('10:00').do(Copy_data_to_download_folder)
 
         while True:
             schedule.run_pending()

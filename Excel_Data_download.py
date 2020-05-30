@@ -43,7 +43,7 @@ finally:
 		f2.close()
 
 # Variable definitions
-twitter_outfilename   = ['DCHR_Twitters_by_topics.xlsx','DCHR_Influencer_tweets.xlsx']
+twitter_outfilename   = ['DCHR_Twitters_by_topics.xlsx','DCHR_Influencer_tweets.xlsx','DCHR_Twitters_by_product.xlsx']
 googlerss_outfilename = ['DCHR_Google_Category.xlsx', 'DCHR_Google_Product.xlsx', 'DCHR_Google_Keyword.xlsx']
 url_of_file   = address[0]
 output_folder = address[1]
@@ -52,6 +52,9 @@ googlerss_outputFolder = output_folder + '\\GoogleNews\\data\\'
 
 username = user_pwd[0]
 password = user_pwd[1]
+
+print('username :\n', username)
+print('password :\n', password)
 
 # create a password manager
 password_mgr = urllib.HTTPPasswordMgrWithDefaultRealm()

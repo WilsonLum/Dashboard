@@ -97,7 +97,7 @@ finally:
     if f2 is not None:
         f2.close()
         
-maxTweets    = 100000
+maxTweets    = 10000
 
 # Define Functions
 
@@ -122,7 +122,7 @@ def countdown(t, step=1, msg='sleeping'):  # in seconds
 def collect_tweets(search_query):
     rest         = 900 # if rating error wait for 15 mins - Twitter limit
     my_tweets    = []
-    maxTweets    = 100000 # Some arbitrary large number
+    maxTweets    = 10000 # Some arbitrary large number
     tweetsPerQry = 100   # this is the max the API permits
     
     # If results from a specific ID onwards are reqd, set since_id to that ID.
